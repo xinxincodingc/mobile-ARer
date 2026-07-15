@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://github.tools.sap/pages/I774559/SH-6-Hackathon/ar-mobile-poc/",
+  "homepage": "https://xinxincodingc.github.io/mobile-ARer/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
