@@ -4,6 +4,7 @@ import CustomersPage from './pages/CustomersPage'
 import CollectionPage from './pages/CollectionPage'
 import AnalyticsPage from './pages/AnalyticsPage'
 import JoulePage from './pages/JoulePage'
+import ReportPage from './pages/ReportPage'
 
 const TABS = [
   { path: '/', label: '开始', icon: '🏠' },
@@ -11,7 +12,35 @@ const TABS = [
   { path: '/customers', label: '客户360', icon: '👥' },
   { path: '/collection', label: '催收', icon: '📋' },
   { path: '/analytics', label: '分析', icon: '📊' },
+  { path: '/report', label: '报告', icon: '📄' },
 ]
+
+function SapLogo() {
+  return (
+    <img
+      src="sap-logo.svg"
+      alt="SAP"
+      style={{ height: 22, width: 'auto', display: 'block' }}
+    />
+  )
+}
+
+function JouleLogo() {
+  return (
+    <span style={{
+      display: 'inline-flex', alignItems: 'center', gap: 5,
+      fontWeight: 700, fontSize: 15, color: 'var(--joule-purple)'
+    }}>
+      <span style={{
+        width: 22, height: 22, borderRadius: 6,
+        background: 'var(--joule-gradient)',
+        display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+        fontSize: 13, flexShrink: 0
+      }}>💎</span>
+      Joule
+    </span>
+  )
+}
 
 function Layout() {
   const nav = useNavigate()
@@ -23,12 +52,15 @@ function Layout() {
     '/customers': '客户360',
     '/collection': '催收工作台',
     '/analytics': '数据分析',
+    '/report': '汇报生成',
   }
+
+  const isJoule = loc.pathname === '/joule'
 
   return (
     <div className="app">
       <header className="app-header">
-        <div className="app-header__logo">SAP<span>▸</span></div>
+        {isJoule ? <JouleLogo /> : <SapLogo />}
         <div className="app-header__title">{pageTitle[loc.pathname] ?? ''}</div>
         <div className="app-header__avatar">YL</div>
       </header>
@@ -40,6 +72,7 @@ function Layout() {
           <Route path="/customers" element={<CustomersPage />} />
           <Route path="/collection" element={<CollectionPage />} />
           <Route path="/analytics" element={<AnalyticsPage />} />
+          <Route path="/report" element={<ReportPage />} />
         </Routes>
       </div>
 
