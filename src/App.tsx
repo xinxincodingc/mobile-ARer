@@ -27,18 +27,11 @@ function SapLogo() {
 
 function JouleLogo() {
   return (
-    <span style={{
-      display: 'inline-flex', alignItems: 'center', gap: 5,
-      fontWeight: 700, fontSize: 15, color: 'var(--joule-purple)'
-    }}>
-      <span style={{
-        width: 22, height: 22, borderRadius: 6,
-        background: 'var(--joule-gradient)',
-        display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-        fontSize: 13, flexShrink: 0
-      }}>💎</span>
-      Joule
-    </span>
+    <img
+      src="joule-logo.svg"
+      alt="Joule"
+      style={{ height: 28, width: 'auto', display: 'block' }}
+    />
   )
 }
 
