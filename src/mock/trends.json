@@ -1,0 +1,128 @@
+[
+  {
+    "Month": "2025-02",
+    "OverdueRate": 6.1,
+    "DSO": 47,
+    "CollectedAmount": 6200000,
+    "TotalReceivable": 32000000
+  },
+  {
+    "Month": "2025-03",
+    "OverdueRate": 6.8,
+    "DSO": 49,
+    "CollectedAmount": 6800000,
+    "TotalReceivable": 33500000
+  },
+  {
+    "Month": "2025-04",
+    "OverdueRate": 7.2,
+    "DSO": 50,
+    "CollectedAmount": 7100000,
+    "TotalReceivable": 34800000
+  },
+  {
+    "Month": "2025-05",
+    "OverdueRate": 7.8,
+    "DSO": 51,
+    "CollectedAmount": 6900000,
+    "TotalReceivable": 35200000
+  },
+  {
+    "Month": "2025-06",
+    "OverdueRate": 7.5,
+    "DSO": 50,
+    "CollectedAmount": 7400000,
+    "TotalReceivable": 35900000
+  },
+  {
+    "Month": "2025-07",
+    "OverdueRate": 8.0,
+    "DSO": 51,
+    "CollectedAmount": 7200000,
+    "TotalReceivable": 36500000
+  },
+  {
+    "Month": "2025-08",
+    "OverdueRate": 8.2,
+    "DSO": 52,
+    "CollectedAmount": 7800000,
+    "TotalReceivable": 37200000
+  },
+  {
+    "Month": "2025-09",
+    "OverdueRate": 9.5,
+    "DSO": 55,
+    "CollectedAmount": 7100000,
+    "TotalReceivable": 38600000
+  },
+  {
+    "Month": "2025-10",
+    "OverdueRate": 11.3,
+    "DSO": 58,
+    "CollectedAmount": 8500000,
+    "TotalReceivable": 40100000
+  },
+  {
+    "Month": "2025-11",
+    "OverdueRate": 10.8,
+    "DSO": 56,
+    "CollectedAmount": 9200000,
+    "TotalReceivable": 41500000
+  },
+  {
+    "Month": "2025-12",
+    "OverdueRate": 13.2,
+    "DSO": 62,
+    "CollectedAmount": 6300000,
+    "TotalReceivable": 43800000
+  },
+  {
+    "Month": "2026-01",
+    "OverdueRate": 15.7,
+    "DSO": 67,
+    "CollectedAmount": 5400000,
+    "TotalReceivable": 45200000
+  },
+  {
+    "Month": "2026-02",
+    "OverdueRate": 14.1,
+    "DSO": 64,
+    "CollectedAmount": 6900000,
+    "TotalReceivable": 44600000
+  },
+  {
+    "Month": "2026-03",
+    "OverdueRate": 12.9,
+    "DSO": 61,
+    "CollectedAmount": 7600000,
+    "TotalReceivable": 43200000
+  },
+  {
+    "Month": "2026-04",
+    "OverdueRate": 16.3,
+    "DSO": 68,
+    "CollectedAmount": 5900000,
+    "TotalReceivable": 46800000
+  },
+  {
+    "Month": "2026-05",
+    "OverdueRate": 18.5,
+    "DSO": 72,
+    "CollectedAmount": 5100000,
+    "TotalReceivable": 49200000
+  },
+  {
+    "Month": "2026-06",
+    "OverdueRate": 17.8,
+    "DSO": 70,
+    "CollectedAmount": 5700000,
+    "TotalReceivable": 50400000
+  },
+  {
+    "Month": "2026-07",
+    "OverdueRate": 19.2,
+    "DSO": 74,
+    "CollectedAmount": 4300000,
+    "TotalReceivable": 52100000
+  }
+]

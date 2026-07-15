@@ -1,0 +1,3602 @@
+[
+  {
+    "CustomerID": "C001",
+    "Month": "2025-08",
+    "Amount": 1850000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2025-09",
+    "Amount": 2100000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2025-10",
+    "Amount": 1950000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2025-11",
+    "Amount": 2300000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2025-12",
+    "Amount": 2050000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2026-01",
+    "Amount": 1750000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2026-02",
+    "Amount": 1620000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2026-03",
+    "Amount": 1450000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2026-04",
+    "Amount": 1280000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2026-05",
+    "Amount": 980000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2026-06",
+    "Amount": 850000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C001",
+    "Month": "2026-07",
+    "Amount": 630000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2025-08",
+    "Amount": 950000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2025-09",
+    "Amount": 880000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2025-10",
+    "Amount": 1020000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2025-11",
+    "Amount": 760000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2025-12",
+    "Amount": 580000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2026-01",
+    "Amount": 450000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2026-02",
+    "Amount": 380000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2026-03",
+    "Amount": 320000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2026-04",
+    "Amount": 210000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2026-05",
+    "Amount": 180000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2026-06",
+    "Amount": 95000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C002",
+    "Month": "2026-07",
+    "Amount": 95000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2025-08",
+    "Amount": 3200000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2025-09",
+    "Amount": 3500000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2025-10",
+    "Amount": 2900000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2025-11",
+    "Amount": 3800000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2025-12",
+    "Amount": 3100000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2026-01",
+    "Amount": 2800000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2026-02",
+    "Amount": 2600000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2026-03",
+    "Amount": 2400000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2026-04",
+    "Amount": 2100000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2026-05",
+    "Amount": 1850000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2026-06",
+    "Amount": 1580000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C003",
+    "Month": "2026-07",
+    "Amount": 1100000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2025-08",
+    "Amount": 620000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2025-09",
+    "Amount": 680000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2025-10",
+    "Amount": 710000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2025-11",
+    "Amount": 650000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2025-12",
+    "Amount": 590000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2026-01",
+    "Amount": 530000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2026-02",
+    "Amount": 460000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2026-03",
+    "Amount": 410000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2026-04",
+    "Amount": 380000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2026-05",
+    "Amount": 340000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2026-06",
+    "Amount": 280000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C004",
+    "Month": "2026-07",
+    "Amount": 180000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2025-08",
+    "Amount": 1100000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2025-09",
+    "Amount": 1250000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2025-10",
+    "Amount": 1180000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2025-11",
+    "Amount": 1320000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2025-12",
+    "Amount": 1150000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2026-01",
+    "Amount": 980000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2026-02",
+    "Amount": 1050000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2026-03",
+    "Amount": 1200000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2026-04",
+    "Amount": 1350000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2026-05",
+    "Amount": 1420000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2026-06",
+    "Amount": 1380000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C005",
+    "Month": "2026-07",
+    "Amount": 730000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2025-08",
+    "Amount": 820000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2025-09",
+    "Amount": 750000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2025-10",
+    "Amount": 890000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2025-11",
+    "Amount": 810000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2025-12",
+    "Amount": 780000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2026-01",
+    "Amount": 720000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2026-02",
+    "Amount": 680000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2026-03",
+    "Amount": 650000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2026-04",
+    "Amount": 600000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2026-05",
+    "Amount": 560000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2026-06",
+    "Amount": 475000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C006",
+    "Month": "2026-07",
+    "Amount": 195000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2025-08",
+    "Amount": 730000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2025-09",
+    "Amount": 810000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2025-10",
+    "Amount": 760000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2025-11",
+    "Amount": 850000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2025-12",
+    "Amount": 720000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2026-01",
+    "Amount": 650000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2026-02",
+    "Amount": 590000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2026-03",
+    "Amount": 530000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2026-04",
+    "Amount": 760000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2026-05",
+    "Amount": 680000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2026-06",
+    "Amount": 530000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C007",
+    "Month": "2026-07",
+    "Amount": 220000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2025-08",
+    "Amount": 1650000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2025-09",
+    "Amount": 1820000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2025-10",
+    "Amount": 1750000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2025-11",
+    "Amount": 1980000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2025-12",
+    "Amount": 2100000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2026-01",
+    "Amount": 1900000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2026-02",
+    "Amount": 2050000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2026-03",
+    "Amount": 1850000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2026-04",
+    "Amount": 2200000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2026-05",
+    "Amount": 2350000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2026-06",
+    "Amount": 2100000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C008",
+    "Month": "2026-07",
+    "Amount": 1450000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2025-08",
+    "Amount": 1200000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2025-09",
+    "Amount": 1350000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2025-10",
+    "Amount": 1280000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2025-11",
+    "Amount": 1450000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2025-12",
+    "Amount": 1380000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2026-01",
+    "Amount": 1250000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2026-02",
+    "Amount": 1180000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2026-03",
+    "Amount": 1320000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2026-04",
+    "Amount": 1400000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2026-05",
+    "Amount": 1520000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2026-06",
+    "Amount": 1450000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C009",
+    "Month": "2026-07",
+    "Amount": 840000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2025-08",
+    "Amount": 680000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2025-09",
+    "Amount": 720000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2025-10",
+    "Amount": 780000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2025-11",
+    "Amount": 650000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2025-12",
+    "Amount": 710000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2026-01",
+    "Amount": 630000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2026-02",
+    "Amount": 580000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2026-03",
+    "Amount": 540000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2026-04",
+    "Amount": 490000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2026-05",
+    "Amount": 420000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2026-06",
+    "Amount": 370000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C010",
+    "Month": "2026-07",
+    "Amount": 195000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2025-08",
+    "Amount": 480000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2025-09",
+    "Amount": 520000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2025-10",
+    "Amount": 490000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2025-11",
+    "Amount": 430000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2025-12",
+    "Amount": 380000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2026-01",
+    "Amount": 310000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2026-02",
+    "Amount": 280000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2026-03",
+    "Amount": 240000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2026-04",
+    "Amount": 195000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2026-05",
+    "Amount": 150000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2026-06",
+    "Amount": 88000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C011",
+    "Month": "2026-07",
+    "Amount": 88000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2025-08",
+    "Amount": 720000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2025-09",
+    "Amount": 780000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2025-10",
+    "Amount": 810000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2025-11",
+    "Amount": 850000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2025-12",
+    "Amount": 920000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2026-01",
+    "Amount": 880000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2026-02",
+    "Amount": 830000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2026-03",
+    "Amount": 900000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2026-04",
+    "Amount": 860000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2026-05",
+    "Amount": 950000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2026-06",
+    "Amount": 880000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C012",
+    "Month": "2026-07",
+    "Amount": 445000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2025-08",
+    "Amount": 310000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2025-09",
+    "Amount": 280000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2025-10",
+    "Amount": 340000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2025-11",
+    "Amount": 300000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2025-12",
+    "Amount": 260000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2026-01",
+    "Amount": 230000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2026-02",
+    "Amount": 210000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2026-03",
+    "Amount": 190000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2026-04",
+    "Amount": 175000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2026-05",
+    "Amount": 155000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2026-06",
+    "Amount": 120000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C013",
+    "Month": "2026-07",
+    "Amount": 92000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2025-08",
+    "Amount": 2800000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2025-09",
+    "Amount": 3100000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2025-10",
+    "Amount": 2950000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2025-11",
+    "Amount": 3300000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2025-12",
+    "Amount": 3500000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2026-01",
+    "Amount": 3200000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2026-02",
+    "Amount": 3000000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2026-03",
+    "Amount": 3400000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2026-04",
+    "Amount": 3150000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2026-05",
+    "Amount": 3600000,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2026-06",
+    "Amount": 3250000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C014",
+    "Month": "2026-07",
+    "Amount": 1930000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2025-08",
+    "Amount": 420000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2025-09",
+    "Amount": 450000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2025-10",
+    "Amount": 480000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2025-11",
+    "Amount": 410000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2025-12",
+    "Amount": 370000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2026-01",
+    "Amount": 320000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2026-02",
+    "Amount": 280000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2026-03",
+    "Amount": 245000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2026-04",
+    "Amount": 215000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2026-05",
+    "Amount": 190000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2026-06",
+    "Amount": 165000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C015",
+    "Month": "2026-07",
+    "Amount": 98000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2025-08",
+    "Amount": 2500000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2025-09",
+    "Amount": 2750000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2025-10",
+    "Amount": 2600000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2025-11",
+    "Amount": 2900000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2025-12",
+    "Amount": 3100000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2026-01",
+    "Amount": 2850000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2026-02",
+    "Amount": 3050000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2026-03",
+    "Amount": 2800000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2026-04",
+    "Amount": 3200000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2026-05",
+    "Amount": 3400000,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2026-06",
+    "Amount": 3100000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C016",
+    "Month": "2026-07",
+    "Amount": 2100000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2025-08",
+    "Amount": 620000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2025-09",
+    "Amount": 680000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2025-10",
+    "Amount": 710000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2025-11",
+    "Amount": 670000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2025-12",
+    "Amount": 650000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2026-01",
+    "Amount": 600000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2026-02",
+    "Amount": 580000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2026-03",
+    "Amount": 620000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2026-04",
+    "Amount": 640000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2026-05",
+    "Amount": 660000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2026-06",
+    "Amount": 630000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C017",
+    "Month": "2026-07",
+    "Amount": 320000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2025-08",
+    "Amount": 1100000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2025-09",
+    "Amount": 1250000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2025-10",
+    "Amount": 1180000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2025-11",
+    "Amount": 1320000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2025-12",
+    "Amount": 1400000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2026-01",
+    "Amount": 1280000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2026-02",
+    "Amount": 1200000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2026-03",
+    "Amount": 1350000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2026-04",
+    "Amount": 1420000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2026-05",
+    "Amount": 1500000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2026-06",
+    "Amount": 1380000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C018",
+    "Month": "2026-07",
+    "Amount": 750000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2025-08",
+    "Amount": 2200000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2025-09",
+    "Amount": 2500000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2025-10",
+    "Amount": 2350000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2025-11",
+    "Amount": 2700000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2025-12",
+    "Amount": 2900000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2026-01",
+    "Amount": 2650000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2026-02",
+    "Amount": 2800000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2026-03",
+    "Amount": 2600000,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2026-04",
+    "Amount": 3000000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2026-05",
+    "Amount": 3200000,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2026-06",
+    "Amount": 2950000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C019",
+    "Month": "2026-07",
+    "Amount": 1650000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2025-08",
+    "Amount": 850000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2025-09",
+    "Amount": 920000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2025-10",
+    "Amount": 880000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2025-11",
+    "Amount": 950000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2025-12",
+    "Amount": 900000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2026-01",
+    "Amount": 810000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2026-02",
+    "Amount": 780000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2026-03",
+    "Amount": 820000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2026-04",
+    "Amount": 760000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2026-05",
+    "Amount": 710000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2026-06",
+    "Amount": 640000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C020",
+    "Month": "2026-07",
+    "Amount": 390000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2025-08",
+    "Amount": 520000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2025-09",
+    "Amount": 560000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2025-10",
+    "Amount": 510000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2025-11",
+    "Amount": 490000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2025-12",
+    "Amount": 450000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2026-01",
+    "Amount": 400000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2026-02",
+    "Amount": 360000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2026-03",
+    "Amount": 320000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2026-04",
+    "Amount": 490000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2026-05",
+    "Amount": 450000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2026-06",
+    "Amount": 380000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C021",
+    "Month": "2026-07",
+    "Amount": 175000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2025-08",
+    "Amount": 680000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2025-09",
+    "Amount": 720000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2025-10",
+    "Amount": 760000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2025-11",
+    "Amount": 700000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2025-12",
+    "Amount": 680000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2026-01",
+    "Amount": 630000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2026-02",
+    "Amount": 610000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2026-03",
+    "Amount": 650000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2026-04",
+    "Amount": 670000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2026-05",
+    "Amount": 690000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2026-06",
+    "Amount": 650000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C022",
+    "Month": "2026-07",
+    "Amount": 380000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2025-08",
+    "Amount": 420000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2025-09",
+    "Amount": 380000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2025-10",
+    "Amount": 410000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2025-11",
+    "Amount": 350000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2025-12",
+    "Amount": 310000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2026-01",
+    "Amount": 270000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2026-02",
+    "Amount": 240000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2026-03",
+    "Amount": 210000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2026-04",
+    "Amount": 180000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2026-05",
+    "Amount": 155000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2026-06",
+    "Amount": 110000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C023",
+    "Month": "2026-07",
+    "Amount": 75000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2025-08",
+    "Amount": 450000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2025-09",
+    "Amount": 490000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2025-10",
+    "Amount": 470000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2025-11",
+    "Amount": 420000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2025-12",
+    "Amount": 380000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2026-01",
+    "Amount": 340000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2026-02",
+    "Amount": 300000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2026-03",
+    "Amount": 270000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2026-04",
+    "Amount": 245000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2026-05",
+    "Amount": 215000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2026-06",
+    "Amount": 185000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C024",
+    "Month": "2026-07",
+    "Amount": 120000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2025-08",
+    "Amount": 380000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2025-09",
+    "Amount": 350000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2025-10",
+    "Amount": 360000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2025-11",
+    "Amount": 300000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2025-12",
+    "Amount": 260000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2026-01",
+    "Amount": 220000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2026-02",
+    "Amount": 180000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2026-03",
+    "Amount": 145000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2026-04",
+    "Amount": 110000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2026-05",
+    "Amount": 90000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2026-06",
+    "Amount": 90000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C025",
+    "Month": "2026-07",
+    "Amount": 90000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2025-08",
+    "Amount": 390000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2025-09",
+    "Amount": 420000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2025-10",
+    "Amount": 440000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2025-11",
+    "Amount": 400000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2025-12",
+    "Amount": 380000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2026-01",
+    "Amount": 350000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2026-02",
+    "Amount": 330000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2026-03",
+    "Amount": 360000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2026-04",
+    "Amount": 370000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2026-05",
+    "Amount": 380000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2026-06",
+    "Amount": 360000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C026",
+    "Month": "2026-07",
+    "Amount": 210000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2025-08",
+    "Amount": 780000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2025-09",
+    "Amount": 850000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2025-10",
+    "Amount": 820000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2025-11",
+    "Amount": 880000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2025-12",
+    "Amount": 900000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2026-01",
+    "Amount": 830000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2026-02",
+    "Amount": 800000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2026-03",
+    "Amount": 850000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2026-04",
+    "Amount": 820000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2026-05",
+    "Amount": 860000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2026-06",
+    "Amount": 820000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C027",
+    "Month": "2026-07",
+    "Amount": 420000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2025-08",
+    "Amount": 310000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2025-09",
+    "Amount": 280000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2025-10",
+    "Amount": 300000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2025-11",
+    "Amount": 270000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2025-12",
+    "Amount": 245000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2026-01",
+    "Amount": 215000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2026-02",
+    "Amount": 190000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2026-03",
+    "Amount": 165000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2026-04",
+    "Amount": 145000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2026-05",
+    "Amount": 120000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2026-06",
+    "Amount": 95000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C028",
+    "Month": "2026-07",
+    "Amount": 95000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2025-08",
+    "Amount": 1050000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2025-09",
+    "Amount": 1150000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2025-10",
+    "Amount": 1100000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2025-11",
+    "Amount": 1200000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2025-12",
+    "Amount": 1280000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2026-01",
+    "Amount": 1180000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2026-02",
+    "Amount": 1120000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2026-03",
+    "Amount": 1200000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2026-04",
+    "Amount": 1150000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2026-05",
+    "Amount": 1220000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2026-06",
+    "Amount": 1160000,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C029",
+    "Month": "2026-07",
+    "Amount": 720000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2025-08",
+    "Amount": 520000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2025-09",
+    "Amount": 560000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2025-10",
+    "Amount": 540000,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2025-11",
+    "Amount": 500000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2025-12",
+    "Amount": 480000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2026-01",
+    "Amount": 440000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2026-02",
+    "Amount": 410000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2026-03",
+    "Amount": 430000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2026-04",
+    "Amount": 450000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2026-05",
+    "Amount": 420000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2026-06",
+    "Amount": 380000,
+    "OrderCount": 2
+  },
+  {
+    "CustomerID": "C030",
+    "Month": "2026-07",
+    "Amount": 270000,
+    "OrderCount": 1
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2025-08",
+    "Amount": 4299320,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2025-09",
+    "Amount": 4358210,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2025-10",
+    "Amount": 4532720,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2025-11",
+    "Amount": 4278510,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2025-12",
+    "Amount": 4503210,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2026-01",
+    "Amount": 4422510,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2026-02",
+    "Amount": 4585830,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2026-03",
+    "Amount": 4790250,
+    "OrderCount": 10
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2026-04",
+    "Amount": 4673150,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2026-05",
+    "Amount": 4829510,
+    "OrderCount": 10
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2026-06",
+    "Amount": 5102950,
+    "OrderCount": 10
+  },
+  {
+    "CustomerID": "C031",
+    "Month": "2026-07",
+    "Amount": 5142880,
+    "OrderCount": 10
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2025-08",
+    "Amount": 2885630,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2025-09",
+    "Amount": 2911480,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2025-10",
+    "Amount": 2867270,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2025-11",
+    "Amount": 2871530,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2025-12",
+    "Amount": 3152020,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2026-01",
+    "Amount": 3034250,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2026-02",
+    "Amount": 3021970,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2026-03",
+    "Amount": 3079080,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2026-04",
+    "Amount": 3345300,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2026-05",
+    "Amount": 3333040,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2026-06",
+    "Amount": 3446000,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C032",
+    "Month": "2026-07",
+    "Amount": 3480320,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2025-08",
+    "Amount": 5422940,
+    "OrderCount": 11
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2025-09",
+    "Amount": 5417220,
+    "OrderCount": 11
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2025-10",
+    "Amount": 5649900,
+    "OrderCount": 11
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2025-11",
+    "Amount": 5605610,
+    "OrderCount": 11
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2025-12",
+    "Amount": 5777400,
+    "OrderCount": 12
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2026-01",
+    "Amount": 5536560,
+    "OrderCount": 11
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2026-02",
+    "Amount": 5737150,
+    "OrderCount": 11
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2026-03",
+    "Amount": 5874430,
+    "OrderCount": 12
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2026-04",
+    "Amount": 5869390,
+    "OrderCount": 12
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2026-05",
+    "Amount": 6054720,
+    "OrderCount": 12
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2026-06",
+    "Amount": 6090530,
+    "OrderCount": 12
+  },
+  {
+    "CustomerID": "C033",
+    "Month": "2026-07",
+    "Amount": 6288440,
+    "OrderCount": 13
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2025-08",
+    "Amount": 2392910,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2025-09",
+    "Amount": 2605980,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2025-10",
+    "Amount": 2584270,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2025-11",
+    "Amount": 2623740,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2025-12",
+    "Amount": 2565430,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2026-01",
+    "Amount": 2751140,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2026-02",
+    "Amount": 2661530,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2026-03",
+    "Amount": 2763470,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2026-04",
+    "Amount": 2961930,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2026-05",
+    "Amount": 2925300,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2026-06",
+    "Amount": 2953950,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C034",
+    "Month": "2026-07",
+    "Amount": 3034230,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2025-08",
+    "Amount": 3778950,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2025-09",
+    "Amount": 3837580,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2025-10",
+    "Amount": 3892730,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2025-11",
+    "Amount": 4251520,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2025-12",
+    "Amount": 4302900,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2026-01",
+    "Amount": 4163650,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2026-02",
+    "Amount": 4371840,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2026-03",
+    "Amount": 4348820,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2026-04",
+    "Amount": 4625600,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2026-05",
+    "Amount": 4527160,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2026-06",
+    "Amount": 4529480,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C035",
+    "Month": "2026-07",
+    "Amount": 4599450,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2025-08",
+    "Amount": 3464790,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2025-09",
+    "Amount": 3471760,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2025-10",
+    "Amount": 3814140,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2025-11",
+    "Amount": 3713330,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2025-12",
+    "Amount": 3636820,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2026-01",
+    "Amount": 3691490,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2026-02",
+    "Amount": 3783380,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2026-03",
+    "Amount": 4034610,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2026-04",
+    "Amount": 4162230,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2026-05",
+    "Amount": 4102760,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2026-06",
+    "Amount": 4047230,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C036",
+    "Month": "2026-07",
+    "Amount": 4228570,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2025-08",
+    "Amount": 1997410,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2025-09",
+    "Amount": 2188350,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2025-10",
+    "Amount": 2222160,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2025-11",
+    "Amount": 2233760,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2025-12",
+    "Amount": 2219030,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2026-01",
+    "Amount": 2339600,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2026-02",
+    "Amount": 2270430,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2026-03",
+    "Amount": 2380300,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2026-04",
+    "Amount": 2426280,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2026-05",
+    "Amount": 2573300,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2026-06",
+    "Amount": 2598930,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C037",
+    "Month": "2026-07",
+    "Amount": 2512310,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2025-08",
+    "Amount": 3086510,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2025-09",
+    "Amount": 3256770,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2025-10",
+    "Amount": 3310330,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2025-11",
+    "Amount": 3229640,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2025-12",
+    "Amount": 3484690,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2026-01",
+    "Amount": 3477400,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2026-02",
+    "Amount": 3615770,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2026-03",
+    "Amount": 3600560,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2026-04",
+    "Amount": 3496680,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2026-05",
+    "Amount": 3661610,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2026-06",
+    "Amount": 3628640,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C038",
+    "Month": "2026-07",
+    "Amount": 3978170,
+    "OrderCount": 8
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2025-08",
+    "Amount": 1816150,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2025-09",
+    "Amount": 1828220,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2025-10",
+    "Amount": 1677490,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2025-11",
+    "Amount": 1747550,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2025-12",
+    "Amount": 1674610,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2026-01",
+    "Amount": 1795610,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2026-02",
+    "Amount": 1796520,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2026-03",
+    "Amount": 1684970,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2026-04",
+    "Amount": 1745670,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2026-05",
+    "Amount": 1758720,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2026-06",
+    "Amount": 1708880,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C039",
+    "Month": "2026-07",
+    "Amount": 1815180,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2025-08",
+    "Amount": 4414020,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2025-09",
+    "Amount": 4464330,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2025-10",
+    "Amount": 4775290,
+    "OrderCount": 10
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2025-11",
+    "Amount": 4618190,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2025-12",
+    "Amount": 4521840,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2026-01",
+    "Amount": 4558000,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2026-02",
+    "Amount": 4377560,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2026-03",
+    "Amount": 4424740,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2026-04",
+    "Amount": 4476330,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2026-05",
+    "Amount": 4590180,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2026-06",
+    "Amount": 4427200,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C040",
+    "Month": "2026-07",
+    "Amount": 4422700,
+    "OrderCount": 9
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2025-08",
+    "Amount": 1450350,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2025-09",
+    "Amount": 1339920,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2025-10",
+    "Amount": 1363320,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2025-11",
+    "Amount": 1423660,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2025-12",
+    "Amount": 1359990,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2026-01",
+    "Amount": 1348520,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2026-02",
+    "Amount": 1460970,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2026-03",
+    "Amount": 1409950,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2026-04",
+    "Amount": 1396170,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2026-05",
+    "Amount": 1439850,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2026-06",
+    "Amount": 1443050,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C041",
+    "Month": "2026-07",
+    "Amount": 1356660,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2025-08",
+    "Amount": 3043150,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2025-09",
+    "Amount": 3086080,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2025-10",
+    "Amount": 3238040,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2025-11",
+    "Amount": 3034030,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2025-12",
+    "Amount": 3184030,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2026-01",
+    "Amount": 3224690,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2026-02",
+    "Amount": 3439600,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2026-03",
+    "Amount": 3316730,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2026-04",
+    "Amount": 3358840,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2026-05",
+    "Amount": 3495210,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2026-06",
+    "Amount": 3546760,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C042",
+    "Month": "2026-07",
+    "Amount": 3563620,
+    "OrderCount": 7
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2025-08",
+    "Amount": 7035230,
+    "OrderCount": 14
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2025-09",
+    "Amount": 6825410,
+    "OrderCount": 14
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2025-10",
+    "Amount": 7629500,
+    "OrderCount": 15
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2025-11",
+    "Amount": 7655220,
+    "OrderCount": 15
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2025-12",
+    "Amount": 7888300,
+    "OrderCount": 16
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2026-01",
+    "Amount": 7998460,
+    "OrderCount": 16
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2026-02",
+    "Amount": 8084090,
+    "OrderCount": 16
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2026-03",
+    "Amount": 7746420,
+    "OrderCount": 15
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2026-04",
+    "Amount": 8109950,
+    "OrderCount": 16
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2026-05",
+    "Amount": 8059620,
+    "OrderCount": 16
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2026-06",
+    "Amount": 8330730,
+    "OrderCount": 17
+  },
+  {
+    "CustomerID": "C043",
+    "Month": "2026-07",
+    "Amount": 8231040,
+    "OrderCount": 16
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2025-08",
+    "Amount": 2090550,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2025-09",
+    "Amount": 2083830,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2025-10",
+    "Amount": 2196040,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2025-11",
+    "Amount": 2204040,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2025-12",
+    "Amount": 2111710,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2026-01",
+    "Amount": 2145870,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2026-02",
+    "Amount": 2027510,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2026-03",
+    "Amount": 2057310,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2026-04",
+    "Amount": 2198430,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2026-05",
+    "Amount": 2116630,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2026-06",
+    "Amount": 2108860,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C044",
+    "Month": "2026-07",
+    "Amount": 2152070,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2025-08",
+    "Amount": 1859060,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2025-09",
+    "Amount": 2052200,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2025-10",
+    "Amount": 1921170,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2025-11",
+    "Amount": 1980020,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2025-12",
+    "Amount": 2097290,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2026-01",
+    "Amount": 2151230,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2026-02",
+    "Amount": 2105030,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2026-03",
+    "Amount": 2121330,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2026-04",
+    "Amount": 2308130,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2026-05",
+    "Amount": 2222650,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2026-06",
+    "Amount": 2328190,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C045",
+    "Month": "2026-07",
+    "Amount": 2371480,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2025-08",
+    "Amount": 2377540,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2025-09",
+    "Amount": 2551970,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2025-10",
+    "Amount": 2483980,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2025-11",
+    "Amount": 2571470,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2025-12",
+    "Amount": 2688060,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2026-01",
+    "Amount": 2646000,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2026-02",
+    "Amount": 2698960,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2026-03",
+    "Amount": 2854710,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2026-04",
+    "Amount": 2737270,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2026-05",
+    "Amount": 2880780,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2026-06",
+    "Amount": 3062120,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C046",
+    "Month": "2026-07",
+    "Amount": 3110540,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2025-08",
+    "Amount": 2361650,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2025-09",
+    "Amount": 2406780,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2025-10",
+    "Amount": 2336320,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2025-11",
+    "Amount": 2333640,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2025-12",
+    "Amount": 2532930,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2026-01",
+    "Amount": 2548810,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2026-02",
+    "Amount": 2573410,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2026-03",
+    "Amount": 2704350,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2026-04",
+    "Amount": 2674030,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2026-05",
+    "Amount": 2572530,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2026-06",
+    "Amount": 2802140,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C047",
+    "Month": "2026-07",
+    "Amount": 2729860,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2025-08",
+    "Amount": 1681230,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2025-09",
+    "Amount": 1794310,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2025-10",
+    "Amount": 1780160,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2025-11",
+    "Amount": 1873350,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2025-12",
+    "Amount": 1928080,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2026-01",
+    "Amount": 1873130,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2026-02",
+    "Amount": 1983490,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2026-03",
+    "Amount": 1953700,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2026-04",
+    "Amount": 2027990,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2026-05",
+    "Amount": 2135930,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2026-06",
+    "Amount": 2160570,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C048",
+    "Month": "2026-07",
+    "Amount": 2063650,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2025-08",
+    "Amount": 2838390,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2025-09",
+    "Amount": 2621350,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2025-10",
+    "Amount": 2643540,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2025-11",
+    "Amount": 2478470,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2025-12",
+    "Amount": 2331750,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2026-01",
+    "Amount": 2102710,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2026-02",
+    "Amount": 2009070,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2026-03",
+    "Amount": 2123270,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2026-04",
+    "Amount": 2017100,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2026-05",
+    "Amount": 1804770,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2026-06",
+    "Amount": 1773690,
+    "OrderCount": 4
+  },
+  {
+    "CustomerID": "C049",
+    "Month": "2026-07",
+    "Amount": 1591100,
+    "OrderCount": 3
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2025-08",
+    "Amount": 2702730,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2025-09",
+    "Amount": 2772180,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2025-10",
+    "Amount": 2834720,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2025-11",
+    "Amount": 2706400,
+    "OrderCount": 5
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2025-12",
+    "Amount": 2769250,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2026-01",
+    "Amount": 2783230,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2026-02",
+    "Amount": 3013530,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2026-03",
+    "Amount": 3093340,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2026-04",
+    "Amount": 3020420,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2026-05",
+    "Amount": 3129170,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2026-06",
+    "Amount": 3059320,
+    "OrderCount": 6
+  },
+  {
+    "CustomerID": "C050",
+    "Month": "2026-07",
+    "Amount": 3315340,
+    "OrderCount": 7
+  }
+]

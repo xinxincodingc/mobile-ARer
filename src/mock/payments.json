@@ -1,0 +1,1922 @@
+[
+  {
+    "PaymentID": "PAY-C001-001",
+    "CustomerID": "C001",
+    "InvoiceID": "INV-C001-OLD-1",
+    "Amount": 580000,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-25",
+    "Status": "DELAYED",
+    "DelayDays": 15
+  },
+  {
+    "PaymentID": "PAY-C001-002",
+    "CustomerID": "C001",
+    "InvoiceID": "INV-C001-OLD-2",
+    "Amount": 430000,
+    "DueDate": "2025-11-15",
+    "PaidDate": "2025-12-20",
+    "Status": "DELAYED",
+    "DelayDays": 35
+  },
+  {
+    "PaymentID": "PAY-C001-003",
+    "CustomerID": "C001",
+    "InvoiceID": "INV-C001-OLD-3",
+    "Amount": 720000,
+    "DueDate": "2025-09-01",
+    "PaidDate": "2025-09-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C001-004",
+    "CustomerID": "C001",
+    "InvoiceID": "INV-C001-OLD-4",
+    "Amount": 290000,
+    "DueDate": "2025-07-20",
+    "PaidDate": "2025-08-28",
+    "Status": "DELAYED",
+    "DelayDays": 39
+  },
+  {
+    "PaymentID": "PAY-C001-005",
+    "CustomerID": "C001",
+    "InvoiceID": "INV-C001-OLD-5",
+    "Amount": 650000,
+    "DueDate": "2025-05-10",
+    "PaidDate": "2025-05-12",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C002-001",
+    "CustomerID": "C002",
+    "InvoiceID": "INV-C002-OLD-1",
+    "Amount": 210000,
+    "DueDate": "2026-01-05",
+    "PaidDate": "2026-02-28",
+    "Status": "DELAYED",
+    "DelayDays": 54
+  },
+  {
+    "PaymentID": "PAY-C002-002",
+    "CustomerID": "C002",
+    "InvoiceID": "INV-C002-OLD-2",
+    "Amount": 150000,
+    "DueDate": "2025-10-10",
+    "PaidDate": "2025-12-15",
+    "Status": "DELAYED",
+    "DelayDays": 66
+  },
+  {
+    "PaymentID": "PAY-C002-003",
+    "CustomerID": "C002",
+    "InvoiceID": "INV-C002-OLD-3",
+    "Amount": 320000,
+    "DueDate": "2025-08-20",
+    "PaidDate": "2025-10-01",
+    "Status": "DELAYED",
+    "DelayDays": 42
+  },
+  {
+    "PaymentID": "PAY-C002-004",
+    "CustomerID": "C002",
+    "InvoiceID": "INV-C002-OLD-4",
+    "Amount": 180000,
+    "DueDate": "2025-06-15",
+    "PaidDate": "2025-06-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C002-005",
+    "CustomerID": "C002",
+    "InvoiceID": "INV-C002-OLD-5",
+    "Amount": 260000,
+    "DueDate": "2025-04-01",
+    "PaidDate": "2025-05-30",
+    "Status": "DELAYED",
+    "DelayDays": 59
+  },
+  {
+    "PaymentID": "PAY-C003-001",
+    "CustomerID": "C003",
+    "InvoiceID": "INV-C003-OLD-1",
+    "Amount": 980000,
+    "DueDate": "2026-01-20",
+    "PaidDate": "2026-03-10",
+    "Status": "DELAYED",
+    "DelayDays": 49
+  },
+  {
+    "PaymentID": "PAY-C003-002",
+    "CustomerID": "C003",
+    "InvoiceID": "INV-C003-OLD-2",
+    "Amount": 1100000,
+    "DueDate": "2025-10-25",
+    "PaidDate": "2025-11-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C003-003",
+    "CustomerID": "C003",
+    "InvoiceID": "INV-C003-OLD-3",
+    "Amount": 750000,
+    "DueDate": "2025-08-05",
+    "PaidDate": "2025-09-20",
+    "Status": "DELAYED",
+    "DelayDays": 46
+  },
+  {
+    "PaymentID": "PAY-C003-004",
+    "CustomerID": "C003",
+    "InvoiceID": "INV-C003-OLD-4",
+    "Amount": 820000,
+    "DueDate": "2025-05-15",
+    "PaidDate": "2025-07-02",
+    "Status": "DELAYED",
+    "DelayDays": 48
+  },
+  {
+    "PaymentID": "PAY-C003-005",
+    "CustomerID": "C003",
+    "InvoiceID": "INV-C003-OLD-5",
+    "Amount": 640000,
+    "DueDate": "2025-03-01",
+    "PaidDate": "2025-03-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C004-001",
+    "CustomerID": "C004",
+    "InvoiceID": "INV-C004-OLD-1",
+    "Amount": 210000,
+    "DueDate": "2026-02-15",
+    "PaidDate": "2026-03-25",
+    "Status": "DELAYED",
+    "DelayDays": 38
+  },
+  {
+    "PaymentID": "PAY-C004-002",
+    "CustomerID": "C004",
+    "InvoiceID": "INV-C004-OLD-2",
+    "Amount": 175000,
+    "DueDate": "2025-11-01",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C004-003",
+    "CustomerID": "C004",
+    "InvoiceID": "INV-C004-OLD-3",
+    "Amount": 320000,
+    "DueDate": "2025-09-10",
+    "PaidDate": "2025-09-08",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C004-004",
+    "CustomerID": "C004",
+    "InvoiceID": "INV-C004-OLD-4",
+    "Amount": 145000,
+    "DueDate": "2025-06-20",
+    "PaidDate": "2025-07-15",
+    "Status": "DELAYED",
+    "DelayDays": 25
+  },
+  {
+    "PaymentID": "PAY-C005-001",
+    "CustomerID": "C005",
+    "InvoiceID": "INV-C005-002",
+    "Amount": 410000,
+    "DueDate": "2026-07-05",
+    "PaidDate": "2026-07-03",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C005-002",
+    "CustomerID": "C005",
+    "InvoiceID": "INV-C005-OLD-1",
+    "Amount": 380000,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-04-28",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C005-003",
+    "CustomerID": "C005",
+    "InvoiceID": "INV-C005-OLD-2",
+    "Amount": 450000,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-14",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C005-004",
+    "CustomerID": "C005",
+    "InvoiceID": "INV-C005-OLD-3",
+    "Amount": 510000,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-09",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C005-005",
+    "CustomerID": "C005",
+    "InvoiceID": "INV-C005-OLD-4",
+    "Amount": 390000,
+    "DueDate": "2025-11-20",
+    "PaidDate": "2025-11-18",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C006-001",
+    "CustomerID": "C006",
+    "InvoiceID": "INV-C006-OLD-1",
+    "Amount": 250000,
+    "DueDate": "2026-04-10",
+    "PaidDate": "2026-04-22",
+    "Status": "DELAYED",
+    "DelayDays": 12
+  },
+  {
+    "PaymentID": "PAY-C006-002",
+    "CustomerID": "C006",
+    "InvoiceID": "INV-C006-OLD-2",
+    "Amount": 310000,
+    "DueDate": "2026-02-01",
+    "PaidDate": "2026-02-08",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C006-003",
+    "CustomerID": "C006",
+    "InvoiceID": "INV-C006-OLD-3",
+    "Amount": 280000,
+    "DueDate": "2025-12-10",
+    "PaidDate": "2025-12-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C006-004",
+    "CustomerID": "C006",
+    "InvoiceID": "INV-C006-OLD-4",
+    "Amount": 195000,
+    "DueDate": "2025-09-25",
+    "PaidDate": "2025-10-08",
+    "Status": "DELAYED",
+    "DelayDays": 13
+  },
+  {
+    "PaymentID": "PAY-C007-001",
+    "CustomerID": "C007",
+    "InvoiceID": "INV-C007-OLD-1",
+    "Amount": 380000,
+    "DueDate": "2026-02-20",
+    "PaidDate": "2026-04-10",
+    "Status": "DELAYED",
+    "DelayDays": 49
+  },
+  {
+    "PaymentID": "PAY-C007-002",
+    "CustomerID": "C007",
+    "InvoiceID": "INV-C007-OLD-2",
+    "Amount": 290000,
+    "DueDate": "2025-12-10",
+    "PaidDate": "2026-01-15",
+    "Status": "DELAYED",
+    "DelayDays": 36
+  },
+  {
+    "PaymentID": "PAY-C007-003",
+    "CustomerID": "C007",
+    "InvoiceID": "INV-C007-OLD-3",
+    "Amount": 420000,
+    "DueDate": "2025-10-01",
+    "PaidDate": "2025-10-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C007-004",
+    "CustomerID": "C007",
+    "InvoiceID": "INV-C007-OLD-4",
+    "Amount": 350000,
+    "DueDate": "2025-07-15",
+    "PaidDate": "2025-09-01",
+    "Status": "DELAYED",
+    "DelayDays": 48
+  },
+  {
+    "PaymentID": "PAY-C008-001",
+    "CustomerID": "C008",
+    "InvoiceID": "INV-C008-002",
+    "Amount": 890000,
+    "DueDate": "2026-07-15",
+    "PaidDate": "2026-07-12",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C008-002",
+    "CustomerID": "C008",
+    "InvoiceID": "INV-C008-OLD-1",
+    "Amount": 650000,
+    "DueDate": "2026-05-20",
+    "PaidDate": "2026-05-18",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C008-003",
+    "CustomerID": "C008",
+    "InvoiceID": "INV-C008-OLD-2",
+    "Amount": 720000,
+    "DueDate": "2026-03-10",
+    "PaidDate": "2026-03-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C008-004",
+    "CustomerID": "C008",
+    "InvoiceID": "INV-C008-OLD-3",
+    "Amount": 980000,
+    "DueDate": "2026-01-05",
+    "PaidDate": "2026-01-04",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C009-001",
+    "CustomerID": "C009",
+    "InvoiceID": "INV-C009-002",
+    "Amount": 380000,
+    "DueDate": "2026-07-10",
+    "PaidDate": "2026-07-08",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C009-002",
+    "CustomerID": "C009",
+    "InvoiceID": "INV-C009-OLD-1",
+    "Amount": 420000,
+    "DueDate": "2026-05-15",
+    "PaidDate": "2026-05-12",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C009-003",
+    "CustomerID": "C009",
+    "InvoiceID": "INV-C009-OLD-2",
+    "Amount": 310000,
+    "DueDate": "2026-03-20",
+    "PaidDate": "2026-03-22",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C009-004",
+    "CustomerID": "C009",
+    "InvoiceID": "INV-C009-OLD-3",
+    "Amount": 290000,
+    "DueDate": "2026-01-15",
+    "PaidDate": "2026-01-28",
+    "Status": "DELAYED",
+    "DelayDays": 13
+  },
+  {
+    "PaymentID": "PAY-C010-001",
+    "CustomerID": "C010",
+    "InvoiceID": "INV-C010-OLD-1",
+    "Amount": 280000,
+    "DueDate": "2026-03-10",
+    "PaidDate": "2026-04-15",
+    "Status": "DELAYED",
+    "DelayDays": 36
+  },
+  {
+    "PaymentID": "PAY-C010-002",
+    "CustomerID": "C010",
+    "InvoiceID": "INV-C010-OLD-2",
+    "Amount": 220000,
+    "DueDate": "2026-01-20",
+    "PaidDate": "2026-02-28",
+    "Status": "DELAYED",
+    "DelayDays": 39
+  },
+  {
+    "PaymentID": "PAY-C010-003",
+    "CustomerID": "C010",
+    "InvoiceID": "INV-C010-OLD-3",
+    "Amount": 195000,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-18",
+    "Status": "DELAYED",
+    "DelayDays": 13
+  },
+  {
+    "PaymentID": "PAY-C010-004",
+    "CustomerID": "C010",
+    "InvoiceID": "INV-C010-OLD-4",
+    "Amount": 260000,
+    "DueDate": "2025-08-25",
+    "PaidDate": "2025-08-26",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C011-001",
+    "CustomerID": "C011",
+    "InvoiceID": "INV-C011-OLD-1",
+    "Amount": 180000,
+    "DueDate": "2025-12-01",
+    "PaidDate": "2026-03-15",
+    "Status": "OVERDUE",
+    "DelayDays": 104
+  },
+  {
+    "PaymentID": "PAY-C011-002",
+    "CustomerID": "C011",
+    "InvoiceID": "INV-C011-OLD-2",
+    "Amount": 220000,
+    "DueDate": "2025-09-15",
+    "PaidDate": "2025-11-20",
+    "Status": "DELAYED",
+    "DelayDays": 66
+  },
+  {
+    "PaymentID": "PAY-C011-003",
+    "CustomerID": "C011",
+    "InvoiceID": "INV-C011-OLD-3",
+    "Amount": 150000,
+    "DueDate": "2025-06-30",
+    "PaidDate": "2025-07-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C012-001",
+    "CustomerID": "C012",
+    "InvoiceID": "INV-C012-002",
+    "Amount": 310000,
+    "DueDate": "2026-06-15",
+    "PaidDate": "2026-06-14",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C012-002",
+    "CustomerID": "C012",
+    "InvoiceID": "INV-C012-OLD-1",
+    "Amount": 280000,
+    "DueDate": "2026-04-20",
+    "PaidDate": "2026-04-19",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C012-003",
+    "CustomerID": "C012",
+    "InvoiceID": "INV-C012-OLD-2",
+    "Amount": 195000,
+    "DueDate": "2026-02-10",
+    "PaidDate": "2026-02-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C013-001",
+    "CustomerID": "C013",
+    "InvoiceID": "INV-C013-OLD-1",
+    "Amount": 120000,
+    "DueDate": "2026-03-20",
+    "PaidDate": "2026-05-10",
+    "Status": "DELAYED",
+    "DelayDays": 51
+  },
+  {
+    "PaymentID": "PAY-C013-002",
+    "CustomerID": "C013",
+    "InvoiceID": "INV-C013-OLD-2",
+    "Amount": 95000,
+    "DueDate": "2026-01-15",
+    "PaidDate": "2026-02-20",
+    "Status": "DELAYED",
+    "DelayDays": 36
+  },
+  {
+    "PaymentID": "PAY-C013-003",
+    "CustomerID": "C013",
+    "InvoiceID": "INV-C013-OLD-3",
+    "Amount": 110000,
+    "DueDate": "2025-10-25",
+    "PaidDate": "2025-10-28",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C014-001",
+    "CustomerID": "C014",
+    "InvoiceID": "INV-C014-002",
+    "Amount": 1200000,
+    "DueDate": "2026-07-10",
+    "PaidDate": "2026-07-09",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C014-002",
+    "CustomerID": "C014",
+    "InvoiceID": "INV-C014-OLD-1",
+    "Amount": 950000,
+    "DueDate": "2026-04-15",
+    "PaidDate": "2026-04-15",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C014-003",
+    "CustomerID": "C014",
+    "InvoiceID": "INV-C014-OLD-2",
+    "Amount": 1100000,
+    "DueDate": "2026-01-20",
+    "PaidDate": "2026-01-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C014-004",
+    "CustomerID": "C014",
+    "InvoiceID": "INV-C014-OLD-3",
+    "Amount": 880000,
+    "DueDate": "2025-10-10",
+    "PaidDate": "2025-10-09",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C015-001",
+    "CustomerID": "C015",
+    "InvoiceID": "INV-C015-OLD-1",
+    "Amount": 190000,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-04-05",
+    "Status": "DELAYED",
+    "DelayDays": 85
+  },
+  {
+    "PaymentID": "PAY-C015-002",
+    "CustomerID": "C015",
+    "InvoiceID": "INV-C015-OLD-2",
+    "Amount": 145000,
+    "DueDate": "2025-10-20",
+    "PaidDate": "2025-12-18",
+    "Status": "DELAYED",
+    "DelayDays": 59
+  },
+  {
+    "PaymentID": "PAY-C015-003",
+    "CustomerID": "C015",
+    "InvoiceID": "INV-C015-OLD-3",
+    "Amount": 210000,
+    "DueDate": "2025-07-31",
+    "PaidDate": "2025-08-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C016-001",
+    "CustomerID": "C016",
+    "InvoiceID": "INV-C016-002",
+    "Amount": 980000,
+    "DueDate": "2026-07-08",
+    "PaidDate": "2026-07-07",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C016-002",
+    "CustomerID": "C016",
+    "InvoiceID": "INV-C016-OLD-1",
+    "Amount": 1150000,
+    "DueDate": "2026-05-15",
+    "PaidDate": "2026-05-14",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C016-003",
+    "CustomerID": "C016",
+    "InvoiceID": "INV-C016-OLD-2",
+    "Amount": 870000,
+    "DueDate": "2026-03-01",
+    "PaidDate": "2026-03-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C016-004",
+    "CustomerID": "C016",
+    "InvoiceID": "INV-C016-OLD-3",
+    "Amount": 1020000,
+    "DueDate": "2025-12-20",
+    "PaidDate": "2025-12-19",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C017-001",
+    "CustomerID": "C017",
+    "InvoiceID": "INV-C017-002",
+    "Amount": 290000,
+    "DueDate": "2026-07-05",
+    "PaidDate": "2026-07-04",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C017-002",
+    "CustomerID": "C017",
+    "InvoiceID": "INV-C017-OLD-1",
+    "Amount": 340000,
+    "DueDate": "2026-05-10",
+    "PaidDate": "2026-05-09",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C017-003",
+    "CustomerID": "C017",
+    "InvoiceID": "INV-C017-OLD-2",
+    "Amount": 280000,
+    "DueDate": "2026-03-20",
+    "PaidDate": "2026-04-05",
+    "Status": "DELAYED",
+    "DelayDays": 16
+  },
+  {
+    "PaymentID": "PAY-C017-004",
+    "CustomerID": "C017",
+    "InvoiceID": "INV-C017-OLD-3",
+    "Amount": 310000,
+    "DueDate": "2026-01-15",
+    "PaidDate": "2026-01-15",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C018-001",
+    "CustomerID": "C018",
+    "InvoiceID": "INV-C018-002",
+    "Amount": 520000,
+    "DueDate": "2026-07-10",
+    "PaidDate": "2026-07-09",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C018-002",
+    "CustomerID": "C018",
+    "InvoiceID": "INV-C018-OLD-1",
+    "Amount": 610000,
+    "DueDate": "2026-05-15",
+    "PaidDate": "2026-05-14",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C018-003",
+    "CustomerID": "C018",
+    "InvoiceID": "INV-C018-OLD-2",
+    "Amount": 480000,
+    "DueDate": "2026-03-10",
+    "PaidDate": "2026-03-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C018-004",
+    "CustomerID": "C018",
+    "InvoiceID": "INV-C018-OLD-3",
+    "Amount": 550000,
+    "DueDate": "2026-01-20",
+    "PaidDate": "2026-01-19",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C019-001",
+    "CustomerID": "C019",
+    "InvoiceID": "INV-C019-002",
+    "Amount": 980000,
+    "DueDate": "2026-07-12",
+    "PaidDate": "2026-07-11",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C019-002",
+    "CustomerID": "C019",
+    "InvoiceID": "INV-C019-004",
+    "Amount": 870000,
+    "DueDate": "2026-06-20",
+    "PaidDate": "2026-06-18",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C019-003",
+    "CustomerID": "C019",
+    "InvoiceID": "INV-C019-OLD-1",
+    "Amount": 1100000,
+    "DueDate": "2026-04-15",
+    "PaidDate": "2026-04-15",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C019-004",
+    "CustomerID": "C019",
+    "InvoiceID": "INV-C019-OLD-2",
+    "Amount": 920000,
+    "DueDate": "2026-02-10",
+    "PaidDate": "2026-02-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C019-005",
+    "CustomerID": "C019",
+    "InvoiceID": "INV-C019-OLD-3",
+    "Amount": 1050000,
+    "DueDate": "2025-12-15",
+    "PaidDate": "2025-12-14",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C020-001",
+    "CustomerID": "C020",
+    "InvoiceID": "INV-C020-OLD-1",
+    "Amount": 410000,
+    "DueDate": "2026-04-01",
+    "PaidDate": "2026-04-20",
+    "Status": "DELAYED",
+    "DelayDays": 19
+  },
+  {
+    "PaymentID": "PAY-C020-002",
+    "CustomerID": "C020",
+    "InvoiceID": "INV-C020-OLD-2",
+    "Amount": 350000,
+    "DueDate": "2026-01-25",
+    "PaidDate": "2026-02-10",
+    "Status": "DELAYED",
+    "DelayDays": 16
+  },
+  {
+    "PaymentID": "PAY-C020-003",
+    "CustomerID": "C020",
+    "InvoiceID": "INV-C020-OLD-3",
+    "Amount": 480000,
+    "DueDate": "2025-11-10",
+    "PaidDate": "2025-11-12",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C021-001",
+    "CustomerID": "C021",
+    "InvoiceID": "INV-C021-OLD-1",
+    "Amount": 290000,
+    "DueDate": "2026-02-10",
+    "PaidDate": "2026-04-01",
+    "Status": "DELAYED",
+    "DelayDays": 50
+  },
+  {
+    "PaymentID": "PAY-C021-002",
+    "CustomerID": "C021",
+    "InvoiceID": "INV-C021-OLD-2",
+    "Amount": 220000,
+    "DueDate": "2025-11-20",
+    "PaidDate": "2026-01-05",
+    "Status": "DELAYED",
+    "DelayDays": 46
+  },
+  {
+    "PaymentID": "PAY-C021-003",
+    "CustomerID": "C021",
+    "InvoiceID": "INV-C021-OLD-3",
+    "Amount": 310000,
+    "DueDate": "2025-09-05",
+    "PaidDate": "2025-09-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C022-001",
+    "CustomerID": "C022",
+    "InvoiceID": "INV-C022-OLD-1",
+    "Amount": 350000,
+    "DueDate": "2026-04-20",
+    "PaidDate": "2026-05-02",
+    "Status": "DELAYED",
+    "DelayDays": 12
+  },
+  {
+    "PaymentID": "PAY-C022-002",
+    "CustomerID": "C022",
+    "InvoiceID": "INV-C022-OLD-2",
+    "Amount": 290000,
+    "DueDate": "2026-02-15",
+    "PaidDate": "2026-02-15",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C022-003",
+    "CustomerID": "C022",
+    "InvoiceID": "INV-C022-OLD-3",
+    "Amount": 320000,
+    "DueDate": "2025-12-10",
+    "PaidDate": "2025-12-11",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C023-001",
+    "CustomerID": "C023",
+    "InvoiceID": "INV-C023-OLD-1",
+    "Amount": 175000,
+    "DueDate": "2026-01-15",
+    "PaidDate": "2026-04-20",
+    "Status": "DELAYED",
+    "DelayDays": 95
+  },
+  {
+    "PaymentID": "PAY-C023-002",
+    "CustomerID": "C023",
+    "InvoiceID": "INV-C023-OLD-2",
+    "Amount": 140000,
+    "DueDate": "2025-10-01",
+    "PaidDate": "2025-12-10",
+    "Status": "DELAYED",
+    "DelayDays": 70
+  },
+  {
+    "PaymentID": "PAY-C023-003",
+    "CustomerID": "C023",
+    "InvoiceID": "INV-C023-OLD-3",
+    "Amount": 120000,
+    "DueDate": "2025-07-20",
+    "PaidDate": "2025-07-25",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C024-001",
+    "CustomerID": "C024",
+    "InvoiceID": "INV-C024-OLD-1",
+    "Amount": 200000,
+    "DueDate": "2026-02-20",
+    "PaidDate": "2026-03-28",
+    "Status": "DELAYED",
+    "DelayDays": 36
+  },
+  {
+    "PaymentID": "PAY-C024-002",
+    "CustomerID": "C024",
+    "InvoiceID": "INV-C024-OLD-2",
+    "Amount": 155000,
+    "DueDate": "2025-11-10",
+    "PaidDate": "2025-12-05",
+    "Status": "DELAYED",
+    "DelayDays": 25
+  },
+  {
+    "PaymentID": "PAY-C024-003",
+    "CustomerID": "C024",
+    "InvoiceID": "INV-C024-OLD-3",
+    "Amount": 180000,
+    "DueDate": "2025-08-25",
+    "PaidDate": "2025-08-28",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C025-001",
+    "CustomerID": "C025",
+    "InvoiceID": "INV-C025-OLD-1",
+    "Amount": 250000,
+    "DueDate": "2025-12-10",
+    "PaidDate": "2026-04-15",
+    "Status": "DELAYED",
+    "DelayDays": 126
+  },
+  {
+    "PaymentID": "PAY-C025-002",
+    "CustomerID": "C025",
+    "InvoiceID": "INV-C025-OLD-2",
+    "Amount": 180000,
+    "DueDate": "2025-09-20",
+    "PaidDate": "2025-12-28",
+    "Status": "DELAYED",
+    "DelayDays": 99
+  },
+  {
+    "PaymentID": "PAY-C025-003",
+    "CustomerID": "C025",
+    "InvoiceID": "INV-C025-OLD-3",
+    "Amount": 210000,
+    "DueDate": "2025-06-15",
+    "PaidDate": "2025-07-20",
+    "Status": "DELAYED",
+    "DelayDays": 35
+  },
+  {
+    "PaymentID": "PAY-C026-001",
+    "CustomerID": "C026",
+    "InvoiceID": "INV-C026-002",
+    "Amount": 180000,
+    "DueDate": "2026-07-15",
+    "PaidDate": "2026-07-14",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C026-002",
+    "CustomerID": "C026",
+    "InvoiceID": "INV-C026-OLD-1",
+    "Amount": 220000,
+    "DueDate": "2026-05-20",
+    "PaidDate": "2026-05-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C026-003",
+    "CustomerID": "C026",
+    "InvoiceID": "INV-C026-OLD-2",
+    "Amount": 190000,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-18",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C027-001",
+    "CustomerID": "C027",
+    "InvoiceID": "INV-C027-002",
+    "Amount": 360000,
+    "DueDate": "2026-07-20",
+    "PaidDate": "2026-07-18",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C027-002",
+    "CustomerID": "C027",
+    "InvoiceID": "INV-C027-OLD-1",
+    "Amount": 410000,
+    "DueDate": "2026-05-25",
+    "PaidDate": "2026-05-24",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C027-003",
+    "CustomerID": "C027",
+    "InvoiceID": "INV-C027-OLD-2",
+    "Amount": 350000,
+    "DueDate": "2026-03-20",
+    "PaidDate": "2026-04-02",
+    "Status": "DELAYED",
+    "DelayDays": 13
+  },
+  {
+    "PaymentID": "PAY-C027-004",
+    "CustomerID": "C027",
+    "InvoiceID": "INV-C027-OLD-3",
+    "Amount": 380000,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C028-001",
+    "CustomerID": "C028",
+    "InvoiceID": "INV-C028-OLD-1",
+    "Amount": 140000,
+    "DueDate": "2026-02-28",
+    "PaidDate": "2026-05-10",
+    "Status": "DELAYED",
+    "DelayDays": 71
+  },
+  {
+    "PaymentID": "PAY-C028-002",
+    "CustomerID": "C028",
+    "InvoiceID": "INV-C028-OLD-2",
+    "Amount": 110000,
+    "DueDate": "2025-11-15",
+    "PaidDate": "2026-01-08",
+    "Status": "DELAYED",
+    "DelayDays": 54
+  },
+  {
+    "PaymentID": "PAY-C028-003",
+    "CustomerID": "C028",
+    "InvoiceID": "INV-C028-OLD-3",
+    "Amount": 125000,
+    "DueDate": "2025-08-20",
+    "PaidDate": "2025-08-25",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C029-001",
+    "CustomerID": "C029",
+    "InvoiceID": "INV-C029-002",
+    "Amount": 480000,
+    "DueDate": "2026-07-18",
+    "PaidDate": "2026-07-17",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C029-002",
+    "CustomerID": "C029",
+    "InvoiceID": "INV-C029-OLD-1",
+    "Amount": 560000,
+    "DueDate": "2026-05-20",
+    "PaidDate": "2026-05-19",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C029-003",
+    "CustomerID": "C029",
+    "InvoiceID": "INV-C029-OLD-2",
+    "Amount": 490000,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-15",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C029-004",
+    "CustomerID": "C029",
+    "InvoiceID": "INV-C029-OLD-3",
+    "Amount": 620000,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-09",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C030-001",
+    "CustomerID": "C030",
+    "InvoiceID": "INV-C030-OLD-1",
+    "Amount": 280000,
+    "DueDate": "2026-04-10",
+    "PaidDate": "2026-05-15",
+    "Status": "DELAYED",
+    "DelayDays": 35
+  },
+  {
+    "PaymentID": "PAY-C030-002",
+    "CustomerID": "C030",
+    "InvoiceID": "INV-C030-OLD-2",
+    "Amount": 220000,
+    "DueDate": "2026-02-05",
+    "PaidDate": "2026-03-02",
+    "Status": "DELAYED",
+    "DelayDays": 25
+  },
+  {
+    "PaymentID": "PAY-C030-003",
+    "CustomerID": "C030",
+    "InvoiceID": "INV-C030-OLD-3",
+    "Amount": 265000,
+    "DueDate": "2025-11-20",
+    "PaidDate": "2025-11-22",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C031-001",
+    "CustomerID": "C031",
+    "InvoiceID": "INV-C031-OLD-1",
+    "Amount": 1333850,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C031-002",
+    "CustomerID": "C031",
+    "InvoiceID": "INV-C031-OLD-2",
+    "Amount": 744010,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C031-003",
+    "CustomerID": "C031",
+    "InvoiceID": "INV-C031-OLD-3",
+    "Amount": 984028,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C031-004",
+    "CustomerID": "C031",
+    "InvoiceID": "INV-C031-OLD-4",
+    "Amount": 934282,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C032-001",
+    "CustomerID": "C032",
+    "InvoiceID": "INV-C032-OLD-1",
+    "Amount": 621082,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C032-002",
+    "CustomerID": "C032",
+    "InvoiceID": "INV-C032-OLD-2",
+    "Amount": 857130,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C032-003",
+    "CustomerID": "C032",
+    "InvoiceID": "INV-C032-OLD-3",
+    "Amount": 998035,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C032-004",
+    "CustomerID": "C032",
+    "InvoiceID": "INV-C032-OLD-4",
+    "Amount": 484159,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C033-001",
+    "CustomerID": "C033",
+    "InvoiceID": "INV-C033-OLD-1",
+    "Amount": 1543474,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C033-002",
+    "CustomerID": "C033",
+    "InvoiceID": "INV-C033-OLD-2",
+    "Amount": 2067739,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C033-003",
+    "CustomerID": "C033",
+    "InvoiceID": "INV-C033-OLD-3",
+    "Amount": 1354241,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C033-004",
+    "CustomerID": "C033",
+    "InvoiceID": "INV-C033-OLD-4",
+    "Amount": 1562449,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C034-001",
+    "CustomerID": "C034",
+    "InvoiceID": "INV-C034-OLD-1",
+    "Amount": 775983,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C034-002",
+    "CustomerID": "C034",
+    "InvoiceID": "INV-C034-OLD-2",
+    "Amount": 624306,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C034-003",
+    "CustomerID": "C034",
+    "InvoiceID": "INV-C034-OLD-3",
+    "Amount": 627301,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C034-004",
+    "CustomerID": "C034",
+    "InvoiceID": "INV-C034-OLD-4",
+    "Amount": 537324,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C035-001",
+    "CustomerID": "C035",
+    "InvoiceID": "INV-C035-OLD-1",
+    "Amount": 1401710,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C035-002",
+    "CustomerID": "C035",
+    "InvoiceID": "INV-C035-OLD-2",
+    "Amount": 1342880,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C035-003",
+    "CustomerID": "C035",
+    "InvoiceID": "INV-C035-OLD-3",
+    "Amount": 861562,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C035-004",
+    "CustomerID": "C035",
+    "InvoiceID": "INV-C035-OLD-4",
+    "Amount": 688248,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C036-001",
+    "CustomerID": "C036",
+    "InvoiceID": "INV-C036-OLD-1",
+    "Amount": 1049095,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C036-002",
+    "CustomerID": "C036",
+    "InvoiceID": "INV-C036-OLD-2",
+    "Amount": 810193,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C036-003",
+    "CustomerID": "C036",
+    "InvoiceID": "INV-C036-OLD-3",
+    "Amount": 1067669,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C036-004",
+    "CustomerID": "C036",
+    "InvoiceID": "INV-C036-OLD-4",
+    "Amount": 1318258,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C037-001",
+    "CustomerID": "C037",
+    "InvoiceID": "INV-C037-OLD-1",
+    "Amount": 838138,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C037-002",
+    "CustomerID": "C037",
+    "InvoiceID": "INV-C037-OLD-2",
+    "Amount": 613975,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C037-003",
+    "CustomerID": "C037",
+    "InvoiceID": "INV-C037-OLD-3",
+    "Amount": 826118,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C037-004",
+    "CustomerID": "C037",
+    "InvoiceID": "INV-C037-OLD-4",
+    "Amount": 773174,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C038-001",
+    "CustomerID": "C038",
+    "InvoiceID": "INV-C038-OLD-1",
+    "Amount": 900422,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C038-002",
+    "CustomerID": "C038",
+    "InvoiceID": "INV-C038-OLD-2",
+    "Amount": 668629,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C038-003",
+    "CustomerID": "C038",
+    "InvoiceID": "INV-C038-OLD-3",
+    "Amount": 1197092,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C038-004",
+    "CustomerID": "C038",
+    "InvoiceID": "INV-C038-OLD-4",
+    "Amount": 1166773,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C039-001",
+    "CustomerID": "C039",
+    "InvoiceID": "INV-C039-OLD-1",
+    "Amount": 651489,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-18",
+    "Status": "DELAYED",
+    "DelayDays": 17
+  },
+  {
+    "PaymentID": "PAY-C039-002",
+    "CustomerID": "C039",
+    "InvoiceID": "INV-C039-OLD-2",
+    "Amount": 632666,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-04-10",
+    "Status": "DELAYED",
+    "DelayDays": 26
+  },
+  {
+    "PaymentID": "PAY-C039-003",
+    "CustomerID": "C039",
+    "InvoiceID": "INV-C039-OLD-3",
+    "Amount": 423006,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C039-004",
+    "CustomerID": "C039",
+    "InvoiceID": "INV-C039-OLD-4",
+    "Amount": 323170,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C040-001",
+    "CustomerID": "C040",
+    "InvoiceID": "INV-C040-OLD-1",
+    "Amount": 1220063,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-18",
+    "Status": "DELAYED",
+    "DelayDays": 17
+  },
+  {
+    "PaymentID": "PAY-C040-002",
+    "CustomerID": "C040",
+    "InvoiceID": "INV-C040-OLD-2",
+    "Amount": 1000270,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-04-10",
+    "Status": "DELAYED",
+    "DelayDays": 26
+  },
+  {
+    "PaymentID": "PAY-C040-003",
+    "CustomerID": "C040",
+    "InvoiceID": "INV-C040-OLD-3",
+    "Amount": 1340868,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C040-004",
+    "CustomerID": "C040",
+    "InvoiceID": "INV-C040-OLD-4",
+    "Amount": 1539128,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C041-001",
+    "CustomerID": "C041",
+    "InvoiceID": "INV-C041-OLD-1",
+    "Amount": 262718,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-18",
+    "Status": "DELAYED",
+    "DelayDays": 17
+  },
+  {
+    "PaymentID": "PAY-C041-002",
+    "CustomerID": "C041",
+    "InvoiceID": "INV-C041-OLD-2",
+    "Amount": 441953,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-04-10",
+    "Status": "DELAYED",
+    "DelayDays": 26
+  },
+  {
+    "PaymentID": "PAY-C041-003",
+    "CustomerID": "C041",
+    "InvoiceID": "INV-C041-OLD-3",
+    "Amount": 313261,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C041-004",
+    "CustomerID": "C041",
+    "InvoiceID": "INV-C041-OLD-4",
+    "Amount": 529734,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C042-001",
+    "CustomerID": "C042",
+    "InvoiceID": "INV-C042-OLD-1",
+    "Amount": 575913,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C042-002",
+    "CustomerID": "C042",
+    "InvoiceID": "INV-C042-OLD-2",
+    "Amount": 803115,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C042-003",
+    "CustomerID": "C042",
+    "InvoiceID": "INV-C042-OLD-3",
+    "Amount": 798033,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C042-004",
+    "CustomerID": "C042",
+    "InvoiceID": "INV-C042-OLD-4",
+    "Amount": 827577,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C043-001",
+    "CustomerID": "C043",
+    "InvoiceID": "INV-C043-OLD-1",
+    "Amount": 1599690,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C043-002",
+    "CustomerID": "C043",
+    "InvoiceID": "INV-C043-OLD-2",
+    "Amount": 2677225,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C043-003",
+    "CustomerID": "C043",
+    "InvoiceID": "INV-C043-OLD-3",
+    "Amount": 1909009,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C043-004",
+    "CustomerID": "C043",
+    "InvoiceID": "INV-C043-OLD-4",
+    "Amount": 2578159,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C044-001",
+    "CustomerID": "C044",
+    "InvoiceID": "INV-C044-OLD-1",
+    "Amount": 541907,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-18",
+    "Status": "DELAYED",
+    "DelayDays": 17
+  },
+  {
+    "PaymentID": "PAY-C044-002",
+    "CustomerID": "C044",
+    "InvoiceID": "INV-C044-OLD-2",
+    "Amount": 832948,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-04-10",
+    "Status": "DELAYED",
+    "DelayDays": 26
+  },
+  {
+    "PaymentID": "PAY-C044-003",
+    "CustomerID": "C044",
+    "InvoiceID": "INV-C044-OLD-3",
+    "Amount": 487297,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C044-004",
+    "CustomerID": "C044",
+    "InvoiceID": "INV-C044-OLD-4",
+    "Amount": 736354,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C045-001",
+    "CustomerID": "C045",
+    "InvoiceID": "INV-C045-OLD-1",
+    "Amount": 355153,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C045-002",
+    "CustomerID": "C045",
+    "InvoiceID": "INV-C045-OLD-2",
+    "Amount": 587038,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C045-003",
+    "CustomerID": "C045",
+    "InvoiceID": "INV-C045-OLD-3",
+    "Amount": 551254,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C045-004",
+    "CustomerID": "C045",
+    "InvoiceID": "INV-C045-OLD-4",
+    "Amount": 705197,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C046-001",
+    "CustomerID": "C046",
+    "InvoiceID": "INV-C046-OLD-1",
+    "Amount": 654766,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C046-002",
+    "CustomerID": "C046",
+    "InvoiceID": "INV-C046-OLD-2",
+    "Amount": 746856,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C046-003",
+    "CustomerID": "C046",
+    "InvoiceID": "INV-C046-OLD-3",
+    "Amount": 712758,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C046-004",
+    "CustomerID": "C046",
+    "InvoiceID": "INV-C046-OLD-4",
+    "Amount": 943436,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C047-001",
+    "CustomerID": "C047",
+    "InvoiceID": "INV-C047-OLD-1",
+    "Amount": 428096,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C047-002",
+    "CustomerID": "C047",
+    "InvoiceID": "INV-C047-OLD-2",
+    "Amount": 500840,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C047-003",
+    "CustomerID": "C047",
+    "InvoiceID": "INV-C047-OLD-3",
+    "Amount": 527904,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C047-004",
+    "CustomerID": "C047",
+    "InvoiceID": "INV-C047-OLD-4",
+    "Amount": 875295,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C048-001",
+    "CustomerID": "C048",
+    "InvoiceID": "INV-C048-OLD-1",
+    "Amount": 565355,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C048-002",
+    "CustomerID": "C048",
+    "InvoiceID": "INV-C048-OLD-2",
+    "Amount": 675572,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C048-003",
+    "CustomerID": "C048",
+    "InvoiceID": "INV-C048-OLD-3",
+    "Amount": 353716,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C048-004",
+    "CustomerID": "C048",
+    "InvoiceID": "INV-C048-OLD-4",
+    "Amount": 346171,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C049-001",
+    "CustomerID": "C049",
+    "InvoiceID": "INV-C049-OLD-1",
+    "Amount": 751088,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-06-30",
+    "Status": "DELAYED",
+    "DelayDays": 60
+  },
+  {
+    "PaymentID": "PAY-C049-002",
+    "CustomerID": "C049",
+    "InvoiceID": "INV-C049-OLD-2",
+    "Amount": 657075,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-05-20",
+    "Status": "OVERDUE",
+    "DelayDays": 66
+  },
+  {
+    "PaymentID": "PAY-C049-003",
+    "CustomerID": "C049",
+    "InvoiceID": "INV-C049-OLD-3",
+    "Amount": 482269,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-03-15",
+    "Status": "OVERDUE",
+    "DelayDays": 64
+  },
+  {
+    "PaymentID": "PAY-C049-004",
+    "CustomerID": "C049",
+    "InvoiceID": "INV-C049-OLD-4",
+    "Amount": 973516,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C050-001",
+    "CustomerID": "C050",
+    "InvoiceID": "INV-C050-OLD-1",
+    "Amount": 538856,
+    "DueDate": "2026-05-01",
+    "PaidDate": "2026-05-01",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C050-002",
+    "CustomerID": "C050",
+    "InvoiceID": "INV-C050-OLD-2",
+    "Amount": 526467,
+    "DueDate": "2026-03-15",
+    "PaidDate": "2026-03-20",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C050-003",
+    "CustomerID": "C050",
+    "InvoiceID": "INV-C050-OLD-3",
+    "Amount": 634955,
+    "DueDate": "2026-01-10",
+    "PaidDate": "2026-01-10",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  },
+  {
+    "PaymentID": "PAY-C050-004",
+    "CustomerID": "C050",
+    "InvoiceID": "INV-C050-OLD-4",
+    "Amount": 989389,
+    "DueDate": "2025-11-05",
+    "PaidDate": "2025-11-05",
+    "Status": "ON_TIME",
+    "DelayDays": 0
+  }
+]
